@@ -18,6 +18,6 @@ Public Class Exercise3
     End Sub
 
     Private Sub EndButton_Click(sender As Object, e As EventArgs) Handles EndButton.Click
-        ResultLabel.Text = "پایان"
+        End
     End Sub
 End Class
